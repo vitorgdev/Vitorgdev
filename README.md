@@ -37,7 +37,7 @@ Sinta-se à vontade para me seguir ou entrar em contato:
 
 ## 🏆 Trophies e Medalhas
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/vitorgdev&theme=onestar&margin-w=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vitorgdev&theme=onestar&margin-w=15" alt="Trophies"/>
 </div>
 
 ## 🌀 Atividade Recente
