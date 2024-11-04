@@ -46,8 +46,5 @@ Sinta-se à vontade para me seguir ou entrar em contato:
 ## 📚 Estatísticas de Contribuições
 ![Contribuições](https://github-contribution-stats.vercel.app/api/?username=vitorgdev)
 
-## 🔥 "Commit Heatmap"
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorgdev&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 💻 **Keep coding and breaking the limits!**
