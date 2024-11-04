@@ -26,8 +26,8 @@ Sou desenvolvedor full stack apaixonado por tecnologia, liderando times e empree
 ## 📊 Estatísticas do GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?vitorgdev&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?vitorgdev&theme=tokyonight" alt="Sequência de Contribuições"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?vitorgdevo&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/vitorgdev&theme=tokyonight" alt="Sequência de Contribuições"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/vitorgdev&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas"/>
 </div>
 
 ## 🌐 Vamos nos Conectar!
