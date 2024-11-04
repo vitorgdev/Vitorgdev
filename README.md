@@ -44,10 +44,10 @@ Sinta-se à vontade para me seguir ou entrar em contato:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorgdev&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)
 
 ## 📚 Estatísticas de Contribuições
-![Contribuições](https://github-contribution-stats.vercel.app/api/?vitorgdev)
+![Contribuições](https://github-contribution-stats.vercel.app/api/?username=vitorgdev)
 
 ## 🔥 "Commit Heatmap"
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?vitorgdev&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorgdev&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 💻 **Keep coding and breaking the limits!**
